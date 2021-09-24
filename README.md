@@ -1,4 +1,5 @@
-#### 需求管理规范
+#### 登录注册功能
+未连接数据库
 
-![image-20210802131717477](C:\Users\Riyong.zhao\AppData\Roaming\Typora\typora-user-images\image-20210802131717477.png)
+
 
